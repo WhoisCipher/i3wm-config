@@ -1,0 +1,5 @@
+wallpath="$HOME/Pictures/wallpaper.jpg"
+blur_strength=0.3
+dim_strength=0.6
+locktext="Password"
+font="Inter"
