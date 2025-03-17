@@ -1,0 +1,19 @@
+[BRIGHTNESS]
+command=~/.config/i3blocks/brightness/brightness_info.sh
+interval=0
+
+[SOUND]
+full_text= 🔇:  0%
+command=~/.config/i3blocks/sound/sound_info.sh
+interval=0
+signal=1
+
+[TIME_DATE]
+command=date +" %a, %d - %H:%M"
+interval=6
+
+[BATTERY]
+command=~/.config/i3blocks/battery/battery_info.sh
+interval=3
+
+
