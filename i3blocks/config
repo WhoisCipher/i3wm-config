@@ -1,7 +1,3 @@
-[BRIGHTNESS]
-command=~/.config/i3blocks/brightness/brightness_info.sh
-interval=0
-
 [SOUND]
 full_text= 🔇:  0%
 command=~/.config/i3blocks/sound/sound_info.sh
